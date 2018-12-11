@@ -1,0 +1,3 @@
+Agregue este archivo a master luego de que en las dos ramas que cree, hice
+un commit en cada una, estando adelante de master por un commit ambas.
+Ahora con este commit, master va a estar adelante de las dos ramas.
