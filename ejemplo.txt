@@ -1,0 +1,4 @@
+Archivo creado con el fin de generar conflictos entre ramas y solucionarlos
+haciendo un merge.
+El texto hasta aca lo hico con el usuario de guthub nicomateucci.
+Espero que funciona la verga hija de re mil puta esta !!!!!!!!!!!!.
