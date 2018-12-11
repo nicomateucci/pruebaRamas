@@ -1,4 +1,6 @@
 Archivo creado con el fin de generar conflictos entre ramas y solucionarlos
 haciendo un merge.
+Esta linea la interte desde la rama2
 El texto hasta aca lo hico con el usuario de guthub nicomateucci.
 Espero que funciona la verga hija de re mil puta esta !!!!!!!!!!!!.
+Esta linea tambien la inserte desde la rama dos. Creo que se podria generar un conflicto en la linea 3 con el archivo que tenia en la ramaNicoMateuccicc
